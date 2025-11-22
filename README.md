@@ -67,4 +67,4 @@ The interactive dashboard provides a high-level overview of the key metrics.
 ---
 **Contact**
 [[Linkedin](https://www.linkedin.com/in/mahyar-haji-hosseini-178426395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-[Mahyarhajihossein@gmail.com]
+[[Email](Mahyarhajihosseini@gmail.com)]
