@@ -64,44 +64,7 @@ The interactive dashboard provides a high-level overview of the key metrics.
 ![Screenshot of Power BI Dashboard](<img width="895" height="487" alt="CusotmerBehvaiorDashboard" src="https://github.com/user-attachments/assets/69e7dca6-f9c8-40dc-a949-a28b3b9fa235" />
 )
 
-## How to Run This Project
-Follow these steps to set up and run the project on your local machine.
-
-### Prerequisites
-*   Python 3.x installed (with Jupyter Notebook)
-*   MySQL Server and MySQL Workbench installed
-*   Power BI Desktop (optional, to view the .pbix file)
-
-### Installation & Setup
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2.  **Set up a Python Virtual Environment (Recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    pip install -r requirements.txt
-    ```
-
-3.  **Database Setup:**
-    *   Open MySQL Workbench and create a new connection/schema.
-    *   Run the `sql/schema_creation.sql` file to create the necessary table.
-    *   Use the provided `load_data_to_mysql.py` script or MySQL's import wizard to load the `cleaned_data.csv` file into your database.
-
-4.  **Run the Analysis:**
-    *   Open the Jupyter Notebook: `notebooks/data_analysis.ipynb` and run the cells sequentially.
-    *   The SQL queries used for analysis are located in the `sql/` folder.
-
-5.  **View the Outputs:**
-    *   **Dashboard:** Open the `dashboard/sales_dashboard.pbix` file in Power BI Desktop. Refresh the data connection to point to your local MySQL instance.
-    *   **Report:** View the `docs/Final_Report.pdf`.
-    *   **Presentation:** View the `docs/Project_Presentation.pdf` or the public link to your Gamma presentation.
-
 ---
 **Contact**
-[Your Name]
-[Your LinkedIn Profile URL]
-[Your Email Address]
+[[Linkedin](https://www.linkedin.com/in/mahyar-haji-hosseini-178426395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+[Mahyarhajihossein@gmail.com]
